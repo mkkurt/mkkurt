@@ -11,13 +11,13 @@
  ```javascript
 const WhoAmI = {
     user = 'Kutay Kurt',
+    pronouns: "he" | "him",
     current_edu = "Istanbul Technical University",
     hobbies = [
         "Reading Sci-Fi Novels",    	
         "Playing with my cat, 'Hera'",
         "Being up all Night chasing that ONE BUG...",
-    ],
-    pronouns: "he" | "him",
+    ],    
     code: [Javascript, HTML, CSS],
     tools: [React, Redux, Node, Jest],
     techCommunities: [
