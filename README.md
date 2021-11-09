@@ -7,9 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mkutaykurt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkutaykurt/)](https://www.linkedin.com/in/mkutaykurt/) [![Gmail Badge](https://img.shields.io/badge/-kutaykurt99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kutaykurt99@gmail.com)](mailto:kutaykurt99@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkkurt" alt="mkkurt" /> </p>
 
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mkkurt&layout=compact">
-
  ## Who am I?
  ```javascript
 const WhoAmI = {
@@ -33,8 +30,8 @@ const WhoAmI = {
  
  ## Stuff I Created
 
-- An Instagram Repost App (in a private repo rn)
-- A bot built with NodeJS-Puppeteer, running on cloud that applies to freelance jobs for me (in a private repo too)
+- An Instagram Repost App built with React Native (in a private repo rn)
+- A bot built with NodeJS and Puppeteer, running on cloud that listen to new Freelance jobs on a website and then applies for them for me (in a private repo too)
  
 ## Programming Languages
 <img src = 'https://github.com/mkkurt/mkkurt/blob/main/images/html.svg' width='40'/> <img src = 
@@ -52,5 +49,5 @@ const WhoAmI = {
  * Getting Started with **Blockchain Development🌎**!!
 
 ![Kutay's Github Stats](https://github-readme-stats.vercel.app/api?username=mkkurt&show_icons=true&hide=[%22issues%22])
- 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mkkurt&layout=compact" align='right'>
  
