@@ -48,6 +48,8 @@ const WhoAmI = {
  * I'm currently working on building **Mobile Apps using React Native** and working up on polishing my skills in **MERN Stack**
  * Getting Started with **Blockchain Development🌎!**
 
+ ## Stats
+
 ![Kutay's Github Stats](https://github-readme-stats.vercel.app/api?username=mkkurt&show_icons=true&hide=[%22issues%22])  
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mkkurt&layout=compact">
  
