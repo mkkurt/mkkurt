@@ -1,33 +1,5 @@
 ## Hey, Kutay here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h1>Welcome to my Digital Cave..</h1> 
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-mkutaykurt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkutaykurt/)](https://www.linkedin.com/in/mkutaykurt/) [![Gmail Badge](https://img.shields.io/badge/-kutaykurt99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kutaykurt99@gmail.com)](mailto:kutaykurt99@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkkurt" alt="mkkurt" /> </p>
-
- ## Who am I?
- ```javascript
-const WhoAmI = {
-    user = 'Kutay Kurt',
-    pronouns: "he" | "him",
-    current_edu = "Istanbul Technical University",
-    hobbies = [
-        "Reading Sci-Fi Novels",    	
-        "Playing with my cat, 'Hera'",
-        "Being up all Night chasing that ONE BUG...",
-    ],    
-    code: [Javascript, HTML, CSS],
-    tools: [React, Redux, Node, Jest],
-    techCommunities: [
-        `Patika.dev`
-    ],
-    challenge: "I am currently attending to Patika.dev's React Native Bootcamp"
- }
-	
- ```
- 
  ## Stuff I Created
 
 - An Instagram Repost App built with React Native (in a private repo rn)
